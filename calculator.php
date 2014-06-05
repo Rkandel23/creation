@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title> Simple calculator Using Bootstrap</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -71,7 +71,7 @@
 	<input type="text" class="input-small" name ="num2" placeholder="2nd Number">
 	<button name="submit" value="submit" type="submit" class="btn">Calculate</button>
 </form>
-
+//from here starts your code for calculator::
 <?php 
 	
 	if ($_GET['submit'] != ""){	
@@ -95,7 +95,7 @@
 	}
 ?>
 
-
+//end of code of calculator.
     </div> <!-- /container -->
 
     <!-- Le javascript
