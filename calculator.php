@@ -41,14 +41,7 @@
           </a>
           <a class="brand" href="#">Calculator</a>
           <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">USers</a></li>
-              <li><a href="#contact">Photos</a></li>
-              <li><a href="#contact">Videos</a></li>
-              <li><a href="#contact">Feedback</a></li>
-            </ul>
-          </div><!--/.nav-collapse -->
+             </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
